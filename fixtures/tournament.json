@@ -1,0 +1,53 @@
+{
+  "id": "nvchamp-2026-sample",
+  "name": "2026 年全国女排锦标赛(示例数据,队伍均为虚构)",
+  "teams": [
+    { "id": "A1", "name": "云洲队" },
+    { "id": "A2", "name": "临川队" },
+    { "id": "A3", "name": "望海队" },
+    { "id": "A4", "name": "朔风队" },
+    { "id": "A5", "name": "青崖队" },
+    { "id": "B1", "name": "绛河队" },
+    { "id": "B2", "name": "白鹭队" },
+    { "id": "B3", "name": "苍梧队" },
+    { "id": "B4", "name": "栖霞队" },
+    { "id": "B5", "name": "闻钟队" },
+    { "id": "C1", "name": "澜沧队" },
+    { "id": "C2", "name": "锦屏队" },
+    { "id": "C3", "name": "雁回队" },
+    { "id": "C4", "name": "疏影队" }
+  ],
+  "groups": {
+    "A": ["A1", "A2", "A3", "A4", "A5"],
+    "B": ["B1", "B2", "B3", "B4", "B5"],
+    "C": ["C1", "C2", "C3", "C4"]
+  },
+  "records": [
+    { "record_id": "R-A-01", "match_id": "M-A-01", "kind": "result", "stage": "group", "group": "A", "teams": ["A1", "A2"], "sets": [[25, 20], [23, 25], [25, 18], [25, 22]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-14T12:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-02", "match_id": "M-A-02", "kind": "result", "stage": "group", "group": "A", "teams": ["A1", "A3"], "sets": [[25, 17], [25, 19], [25, 21]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-14T18:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-03", "match_id": "M-A-03", "kind": "result", "stage": "group", "group": "A", "teams": ["A1", "A4"], "sets": [[25, 15], [25, 16], [25, 18]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-15T12:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-04", "match_id": "M-A-04", "kind": "result", "stage": "group", "group": "A", "teams": ["A1", "A5"], "sets": [[25, 12], [25, 14], [25, 10]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-15T18:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-05", "match_id": "M-A-05", "kind": "result", "stage": "group", "group": "A", "teams": ["A2", "A3"], "sets": [[25, 23], [22, 25], [25, 20], [22, 25], [15, 12]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-16T12:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-06", "match_id": "M-A-06", "kind": "result", "stage": "group", "group": "A", "teams": ["A2", "A4"], "sets": [[25, 21], [25, 19], [25, 23]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-16T18:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-07", "match_id": "M-A-07", "kind": "result", "stage": "group", "group": "A", "teams": ["A2", "A5"], "sets": [[25, 18], [24, 26], [25, 20], [25, 22]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-17T12:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-08", "match_id": "M-A-08", "kind": "result", "stage": "group", "group": "A", "teams": ["A3", "A4"], "sets": [[25, 22], [21, 25], [25, 20], [25, 18]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-17T18:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-09", "match_id": "M-A-09", "kind": "result", "stage": "group", "group": "A", "teams": ["A3", "A5"], "sets": [[25, 16], [25, 17], [25, 19]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-18T12:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-A-10", "match_id": "M-A-10", "kind": "result", "stage": "group", "group": "A", "teams": ["A4", "A5"], "sets": [[23, 25], [25, 22], [25, 23], [22, 25], [15, 13]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-18T18:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-01", "match_id": "M-B-01", "kind": "result", "stage": "group", "group": "B", "teams": ["B1", "B2"], "sets": [[25, 22], [25, 20], [23, 25], [25, 21]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-14T14:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-02", "match_id": "M-B-02", "kind": "result", "stage": "group", "group": "B", "teams": ["B1", "B3"], "sets": [[25, 18], [25, 15], [25, 20]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-14T20:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-03", "match_id": "M-B-03", "kind": "result", "stage": "group", "group": "B", "teams": ["B1", "B4"], "sets": [[25, 14], [25, 17], [25, 16]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-15T14:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-04", "match_id": "M-B-04", "kind": "result", "stage": "group", "group": "B", "teams": ["B1", "B5"], "sets": [[25, 11], [25, 13], [25, 12]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-15T20:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-05", "match_id": "M-B-05", "kind": "result", "stage": "group", "group": "B", "teams": ["B2", "B3"], "sets": [[25, 22], [23, 25], [20, 25], [25, 21], [15, 11]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-16T14:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-06", "match_id": "M-B-06", "kind": "result", "stage": "group", "group": "B", "teams": ["B2", "B4"], "sets": [[25, 20], [25, 22], [25, 18]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-16T20:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-07", "match_id": "M-B-07", "kind": "result", "stage": "group", "group": "B", "teams": ["B2", "B5"], "sets": [[25, 15], [25, 17], [23, 25], [25, 19]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-17T14:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-08", "match_id": "M-B-08", "kind": "result", "stage": "group", "group": "B", "teams": ["B3", "B4"], "sets": [[25, 23], [25, 21], [22, 25], [25, 20]], "roster_objection": true, "objection_note": "B4 对 B3 报名阵容提出异议,技术代表确认阵容有效,比赛结果予以确认", "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-17T20:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-09", "match_id": "M-B-09", "kind": "result", "stage": "group", "group": "B", "teams": ["B3", "B5"], "sets": [[25, 14], [25, 16], [25, 18]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-18T14:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-B-10", "match_id": "M-B-10", "kind": "result", "stage": "group", "group": "B", "teams": ["B4", "B5"], "sets": [[25, 20], [25, 22], [25, 21]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-18T20:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-C-01", "match_id": "M-C-01", "kind": "result", "stage": "group", "group": "C", "teams": ["C1", "C2"], "sets": [[25, 21], [25, 23], [25, 20]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-14T16:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-C-02", "match_id": "M-C-02", "kind": "result", "stage": "group", "group": "C", "teams": ["C1", "C3"], "sets": [[25, 19], [25, 22], [25, 18]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-15T16:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-C-03", "match_id": "M-C-03", "kind": "forfeit", "stage": "group", "group": "C", "teams": ["C1", "C4"], "sets": [[25, 0], [25, 0], [25, 0]], "forfeit_by": "C4", "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-16T16:30:00+08:00", "supersedes": null, "reason": "C4 因故弃权,按 0:3(每局 0:25)记录" },
+    { "record_id": "R-C-04", "match_id": "M-C-04", "kind": "result", "stage": "group", "group": "C", "teams": ["C2", "C3"], "sets": [[25, 23], [25, 20], [22, 25], [25, 21]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-17T16:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-C-05", "match_id": "M-C-05", "kind": "result", "stage": "group", "group": "C", "teams": ["C2", "C4"], "sets": [[25, 16], [25, 18], [25, 15]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-18T16:30:00+08:00", "supersedes": null, "reason": null },
+    { "record_id": "R-C-06", "match_id": "M-C-06", "kind": "result", "stage": "group", "group": "C", "teams": ["C3", "C4"], "sets": [[25, 20], [25, 21], [25, 19]], "roster_objection": false, "status": "confirmed", "confirmed_by": "技术代表(值班)", "recorded_at": "2026-09-19T16:30:00+08:00", "supersedes": null, "reason": null }
+  ]
+}
