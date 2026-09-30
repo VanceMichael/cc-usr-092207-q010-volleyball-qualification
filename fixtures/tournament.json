@@ -1,0 +1,169 @@
+{
+  "domain": "volleyball-qualification",
+  "edition": {
+    "code": "2025-national-women-volleyball-championship",
+    "name": "二〇二五年全国女排锦标赛"
+  },
+  "teams": [
+    {
+      "id": "LW",
+      "name": "蓝湾",
+      "group": "A"
+    },
+    {
+      "id": "QC",
+      "name": "青川",
+      "group": "A"
+    },
+    {
+      "id": "YG",
+      "name": "云港",
+      "group": "A"
+    },
+    {
+      "id": "ST",
+      "name": "石台",
+      "group": "A"
+    },
+    {
+      "id": "FL",
+      "name": "枫岭",
+      "group": "A"
+    },
+    {
+      "id": "SX",
+      "name": "沙溪",
+      "group": "B"
+    },
+    {
+      "id": "HC",
+      "name": "鹤城",
+      "group": "B"
+    },
+    {
+      "id": "YM",
+      "name": "雁门",
+      "group": "B"
+    },
+    {
+      "id": "JZ",
+      "name": "江洲",
+      "group": "B"
+    },
+    {
+      "id": "YC",
+      "name": "越城",
+      "group": "B"
+    },
+    {
+      "id": "JH",
+      "name": "静海",
+      "group": "C"
+    },
+    {
+      "id": "MP",
+      "name": "梅浦",
+      "group": "C"
+    },
+    {
+      "id": "SY",
+      "name": "松阳",
+      "group": "C"
+    },
+    {
+      "id": "TC",
+      "name": "桐川",
+      "group": "C"
+    }
+  ],
+  "groups": [
+    {
+      "id": "A",
+      "name": "A 组",
+      "teamIds": [
+        "LW",
+        "QC",
+        "YG",
+        "ST",
+        "FL"
+      ],
+      "matchIds": [
+        "GA01",
+        "GA02",
+        "GA03",
+        "GA04",
+        "GA05",
+        "GA06",
+        "GA07",
+        "GA08",
+        "GA09",
+        "GA10"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "B 组",
+      "teamIds": [
+        "SX",
+        "HC",
+        "YM",
+        "JZ",
+        "YC"
+      ],
+      "matchIds": [
+        "GB01",
+        "GB02",
+        "GB03",
+        "GB04",
+        "GB05",
+        "GB06",
+        "GB07",
+        "GB08",
+        "GB09",
+        "GB10"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "C 组",
+      "teamIds": [
+        "JH",
+        "MP",
+        "SY",
+        "TC"
+      ],
+      "matchIds": [
+        "GC01",
+        "GC02",
+        "GC03",
+        "GC04",
+        "GC05",
+        "GC06"
+      ]
+    }
+  ],
+  "knockout": {
+    "quarterfinalIds": [
+      "QF1",
+      "QF2",
+      "QF3",
+      "QF4"
+    ]
+  },
+  "displayNameOf": {
+    "LW": "蓝湾",
+    "QC": "青川",
+    "YG": "云港",
+    "ST": "石台",
+    "FL": "枫岭",
+    "SX": "沙溪",
+    "HC": "鹤城",
+    "YM": "雁门",
+    "JZ": "江洲",
+    "YC": "越城",
+    "JH": "静海",
+    "MP": "梅浦",
+    "SY": "松阳",
+    "TC": "桐川"
+  }
+}

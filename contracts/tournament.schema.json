@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "女排锦标赛赛事结构",
+  "type": "object",
+  "required": ["domain", "edition", "teams", "groups", "knockout"],
+  "properties": {
+    "domain": { "const": "volleyball-qualification" },
+    "edition": {
+      "type": "object",
+      "required": ["code", "name"],
+      "properties": {
+        "code": { "type": "string", "minLength": 1 },
+        "name": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "teams": {
+      "type": "array",
+      "minItems": 8,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "group"],
+        "properties": {
+          "id": { "type": "string", "pattern": "^[A-Za-z0-9_-]+$" },
+          "name": { "type": "string", "minLength": 1 },
+          "group": { "type": "string", "minLength": 1 }
+        },
+        "additionalProperties": false
+      }
+    },
+    "groups": {
+      "type": "array",
+      "minItems": 3,
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "teamIds", "matchIds"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string" },
+          "teamIds": { "type": "array", "minItems": 3, "items": { "type": "string" } },
+          "matchIds": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      }
+    },
+    "knockout": {
+      "type": "object",
+      "required": ["quarterfinalIds"],
+      "properties": {
+        "quarterfinalIds": {
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 4,
+          "items": { "type": "string" }
+        }
+      },
+      "additionalProperties": false
+    },
+    "displayNameOf": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

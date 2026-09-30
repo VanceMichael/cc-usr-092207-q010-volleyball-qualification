@@ -1,0 +1,868 @@
+{
+  "events": [
+    {
+      "id": "R-GA01",
+      "type": "matchResult",
+      "ts": "2025-09-12T15:00:00+08:00",
+      "matchId": "GA01",
+      "stage": "group",
+      "group": "A",
+      "home": "LW",
+      "away": "QC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 20
+        },
+        {
+          "home": 22,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        },
+        {
+          "home": 25,
+          "away": 22
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB01",
+      "type": "matchResult",
+      "ts": "2025-09-12T15:00:00+08:00",
+      "matchId": "GB01",
+      "stage": "group",
+      "group": "B",
+      "home": "SX",
+      "away": "HC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 22
+        },
+        {
+          "home": 25,
+          "away": 23
+        },
+        {
+          "home": 22,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GA02",
+      "type": "matchResult",
+      "ts": "2025-09-13T15:00:00+08:00",
+      "matchId": "GA02",
+      "stage": "group",
+      "group": "A",
+      "home": "LW",
+      "away": "YG",
+      "sets": [
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 17
+        },
+        {
+          "home": 25,
+          "away": 21
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB02",
+      "type": "matchResult",
+      "ts": "2025-09-13T15:00:00+08:00",
+      "matchId": "GB02",
+      "stage": "group",
+      "group": "B",
+      "home": "SX",
+      "away": "YM",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC01",
+      "type": "matchResult",
+      "ts": "2025-09-13T15:00:00+08:00",
+      "matchId": "GC01",
+      "stage": "group",
+      "group": "C",
+      "home": "JH",
+      "away": "MP",
+      "sets": [
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 17
+        },
+        {
+          "home": 25,
+          "away": 21
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA03",
+      "type": "matchResult",
+      "ts": "2025-09-14T15:00:00+08:00",
+      "matchId": "GA03",
+      "stage": "group",
+      "group": "A",
+      "home": "LW",
+      "away": "ST",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 22
+        },
+        {
+          "home": 25,
+          "away": 19
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB03",
+      "type": "matchResult",
+      "ts": "2025-09-14T15:00:00+08:00",
+      "matchId": "GB03",
+      "stage": "group",
+      "group": "B",
+      "home": "SX",
+      "away": "JZ",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 20,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC02",
+      "type": "matchResult",
+      "ts": "2025-09-14T15:00:00+08:00",
+      "matchId": "GC02",
+      "stage": "group",
+      "group": "C",
+      "home": "JH",
+      "away": "SY",
+      "sets": [
+        {
+          "home": 25,
+          "away": 20
+        },
+        {
+          "home": 22,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        },
+        {
+          "home": 25,
+          "away": 22
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA04",
+      "type": "matchResult",
+      "ts": "2025-09-15T15:00:00+08:00",
+      "matchId": "GA04",
+      "stage": "group",
+      "group": "A",
+      "home": "LW",
+      "away": "FL",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB04",
+      "type": "matchResult",
+      "ts": "2025-09-15T15:00:00+08:00",
+      "matchId": "GB04",
+      "stage": "group",
+      "group": "B",
+      "home": "SX",
+      "away": "YC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC03",
+      "type": "matchResult",
+      "ts": "2025-09-15T15:00:00+08:00",
+      "matchId": "GC03",
+      "stage": "group",
+      "group": "C",
+      "home": "JH",
+      "away": "TC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 22
+        },
+        {
+          "home": 25,
+          "away": 19
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA05",
+      "type": "matchResult",
+      "ts": "2025-09-16T15:00:00+08:00",
+      "matchId": "GA05",
+      "stage": "group",
+      "group": "A",
+      "home": "QC",
+      "away": "YG",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 20,
+          "away": 25
+        },
+        {
+          "home": 21,
+          "away": 25
+        },
+        {
+          "home": 15,
+          "away": 12
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB05",
+      "type": "matchResult",
+      "ts": "2025-09-16T15:00:00+08:00",
+      "matchId": "GB05",
+      "stage": "group",
+      "group": "B",
+      "home": "JZ",
+      "away": "HC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 20
+        },
+        {
+          "home": 22,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        },
+        {
+          "home": 25,
+          "away": 23
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC04",
+      "type": "matchResult",
+      "ts": "2025-09-16T15:00:00+08:00",
+      "matchId": "GC04",
+      "stage": "group",
+      "group": "C",
+      "home": "SY",
+      "away": "MP",
+      "sets": [
+        {
+          "home": 25,
+          "away": 23
+        },
+        {
+          "home": 18,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 22
+        },
+        {
+          "home": 21,
+          "away": 25
+        },
+        {
+          "home": 15,
+          "away": 12
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA06",
+      "type": "matchResult",
+      "ts": "2025-09-17T15:00:00+08:00",
+      "matchId": "GA06",
+      "stage": "group",
+      "group": "A",
+      "home": "QC",
+      "away": "ST",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 20,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GA07",
+      "type": "matchResult",
+      "ts": "2025-09-17T15:00:00+08:00",
+      "matchId": "GA07",
+      "stage": "group",
+      "group": "A",
+      "home": "QC",
+      "away": "FL",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB06",
+      "type": "matchResult",
+      "ts": "2025-09-17T15:00:00+08:00",
+      "matchId": "GB06",
+      "stage": "group",
+      "group": "B",
+      "home": "JZ",
+      "away": "YM",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC05",
+      "type": "matchResult",
+      "ts": "2025-09-17T15:00:00+08:00",
+      "matchId": "GC05",
+      "stage": "group",
+      "group": "C",
+      "home": "MP",
+      "away": "TC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA08",
+      "type": "matchResult",
+      "ts": "2025-09-18T15:00:00+08:00",
+      "matchId": "GA08",
+      "stage": "group",
+      "group": "A",
+      "home": "YG",
+      "away": "ST",
+      "sets": [
+        {
+          "home": 25,
+          "away": 0
+        },
+        {
+          "home": 25,
+          "away": 0
+        },
+        {
+          "home": 25,
+          "away": 0
+        }
+      ],
+      "forfeit": "away",
+      "rosterChallenge": {
+        "raised": "home",
+        "disposition": "upheld",
+        "note": "客队场上阵容与报名位置表不符，裁判长与技术代表合议后异议成立"
+      },
+      "notes": "按规程判石台队 0:3 告负",
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB07",
+      "type": "matchResult",
+      "ts": "2025-09-18T15:00:00+08:00",
+      "matchId": "GB07",
+      "stage": "group",
+      "group": "B",
+      "home": "JZ",
+      "away": "YC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GB08",
+      "type": "matchResult",
+      "ts": "2025-09-18T15:00:00+08:00",
+      "matchId": "GB08",
+      "stage": "group",
+      "group": "B",
+      "home": "HC",
+      "away": "YM",
+      "sets": [
+        {
+          "home": 25,
+          "away": 21
+        },
+        {
+          "home": 22,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 20
+        },
+        {
+          "home": 25,
+          "away": 18
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "R-GC06",
+      "type": "matchResult",
+      "ts": "2025-09-18T15:00:00+08:00",
+      "matchId": "GC06",
+      "stage": "group",
+      "group": "C",
+      "home": "SY",
+      "away": "TC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 20
+        },
+        {
+          "home": 23,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 19
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-309",
+        "scorer": "SD-C-03"
+      }
+    },
+    {
+      "id": "R-GA09",
+      "type": "matchResult",
+      "ts": "2025-09-19T15:00:00+08:00",
+      "matchId": "GA09",
+      "stage": "group",
+      "group": "A",
+      "home": "ST",
+      "away": "FL",
+      "sets": [
+        {
+          "home": 25,
+          "away": 0
+        },
+        {
+          "home": 25,
+          "away": 0
+        },
+        {
+          "home": 25,
+          "away": 0
+        }
+      ],
+      "forfeit": "away",
+      "notes": "枫岭队赛前因队员伤病弃权",
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB09",
+      "type": "matchResult",
+      "ts": "2025-09-19T15:00:00+08:00",
+      "matchId": "GB09",
+      "stage": "group",
+      "group": "B",
+      "home": "HC",
+      "away": "YC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "PEN-JZ-01",
+      "type": "penalty",
+      "ts": "2025-09-19T20:30:00+08:00",
+      "team": "JZ",
+      "points": 2,
+      "reason": "替补席人员管理违规并延误比赛，按当届规程扣积分 2 分"
+    },
+    {
+      "id": "R-GA10",
+      "type": "matchResult",
+      "ts": "2025-09-20T15:00:00+08:00",
+      "matchId": "GA10",
+      "stage": "group",
+      "group": "A",
+      "home": "YG",
+      "away": "FL",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 20,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-118",
+        "scorer": "SD-A-03"
+      }
+    },
+    {
+      "id": "R-GB10",
+      "type": "matchResult",
+      "ts": "2025-09-20T15:00:00+08:00",
+      "matchId": "GB10",
+      "stage": "group",
+      "group": "B",
+      "home": "YM",
+      "away": "YC",
+      "sets": [
+        {
+          "home": 25,
+          "away": 18
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 25,
+          "away": 20
+        }
+      ],
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03"
+      }
+    },
+    {
+      "id": "DRW-SEED-01",
+      "type": "drawOutcome",
+      "ts": "2025-09-20T20:00:00+08:00",
+      "stage": "seed",
+      "tieKey": "seed:JH=LW",
+      "teams": [
+        "LW",
+        "JH"
+      ],
+      "note": "1 号签抽签：蓝湾抽得 1 号、静海 2 号",
+      "confirmedBy": {
+        "technicalDelegate": "TD-07"
+      }
+    },
+    {
+      "id": "K-QF4",
+      "type": "kickoff",
+      "ts": "2025-09-23T19:00:00+08:00",
+      "matchId": "QF4"
+    },
+    {
+      "id": "COR-GB01-01",
+      "type": "correction",
+      "ts": "2025-09-24T10:30:00+08:00",
+      "matchId": "GB01",
+      "stage": "group",
+      "group": "B",
+      "home": "SX",
+      "away": "HC",
+      "sets": [
+        {
+          "home": 23,
+          "away": 25
+        },
+        {
+          "home": 25,
+          "away": 21
+        },
+        {
+          "home": 25,
+          "away": 19
+        },
+        {
+          "home": 19,
+          "away": 25
+        },
+        {
+          "home": 15,
+          "away": 12
+        }
+      ],
+      "basis": "refereeReview",
+      "reason": "记分台与录像复核：原记主队 3:1 有误，客队赢下第四局、主队决胜局获胜，实际为 3:2",
+      "confirmedBy": {
+        "referee": "R-205",
+        "scorer": "SD-B-03",
+        "technicalDelegate": "TD-07"
+      }
+    },
+    {
+      "id": "REV-JZ-01",
+      "type": "penaltyReversal",
+      "ts": "2025-09-24T14:00:00+08:00",
+      "penaltyId": "PEN-JZ-01",
+      "reason": "仲裁委员会复核录像，认定不构成延误比赛，撤销扣分"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "女排锦标赛不可覆盖赛果记录（只追加）",
+  "type": "object",
+  "required": ["events"],
+  "properties": {
+    "events": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/event" }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "setScore": {
+      "type": "object",
+      "required": ["home", "away"],
+      "properties": {
+        "home": { "type": "integer", "minimum": 0 },
+        "away": { "type": "integer", "minimum": 0 }
+      },
+      "additionalProperties": false
+    },
+    "confirmedBy": {
+      "type": "object",
+      "required": ["referee"],
+      "properties": {
+        "referee": { "type": "string" },
+        "scorer": { "type": "string" },
+        "technicalDelegate": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "rosterChallenge": {
+      "type": "object",
+      "required": ["raised", "disposition"],
+      "properties": {
+        "raised": { "enum": ["home", "away"] },
+        "disposition": { "enum": ["upheld", "rejected"] },
+        "note": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "event": {
+      "type": "object",
+      "required": ["id", "ts", "type"],
+      "oneOf": [
+        {
+          "required": ["matchId", "stage", "home", "away", "sets", "confirmedBy"],
+          "properties": {
+            "id": { "type": "string", "minLength": 1 },
+            "ts": { "type": "string", "format": "date-time" },
+            "type": { "enum": ["matchResult", "correction"] },
+            "matchId": { "type": "string" },
+            "stage": { "enum": ["group", "knockout"] },
+            "group": { "type": "string" },
+            "home": { "type": "string" },
+            "away": { "type": "string" },
+            "sets": { "type": "array", "items": { "$ref": "#/$defs/setScore" } },
+            "forfeit": { "enum": ["home", "away"] },
+            "rosterChallenge": { "$ref": "#/$defs/rosterChallenge" },
+            "notes": { "type": "string" },
+            "basis": { "enum": ["appeal", "refereeReview", "supplement"] },
+            "reason": { "type": "string" },
+            "confirmedBy": { "$ref": "#/$defs/confirmedBy" }
+          },
+          "allOf": [
+            {
+              "if": { "properties": { "type": { "const": "correction" } }, "required": ["type"] },
+              "then": { "required": ["basis", "reason"] }
+            }
+          ]
+        },
+        {
+          "required": ["team", "points", "reason"],
+          "properties": {
+            "id": { "type": "string" },
+            "ts": { "type": "string", "format": "date-time" },
+            "type": { "const": "penalty" },
+            "team": { "type": "string" },
+            "points": { "type": "integer", "minimum": 1 },
+            "reason": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        {
+          "required": ["penaltyId", "reason"],
+          "properties": {
+            "id": { "type": "string" },
+            "ts": { "type": "string", "format": "date-time" },
+            "type": { "const": "penaltyReversal" },
+            "penaltyId": { "type": "string" },
+            "reason": { "type": "string" }
+          },
+          "additionalProperties": false
+        },
+        {
+          "required": ["stage", "tieKey", "teams", "confirmedBy"],
+          "properties": {
+            "id": { "type": "string" },
+            "ts": { "type": "string", "format": "date-time" },
+            "type": { "const": "drawOutcome" },
+            "stage": { "type": "string", "pattern": "^(group:[A-Za-z0-9_-]+|third|seed)$" },
+            "tieKey": { "type": "string" },
+            "teams": { "type": "array", "minItems": 2, "items": { "type": "string" } },
+            "note": { "type": "string" },
+            "confirmedBy": {
+              "type": "object",
+              "required": ["technicalDelegate"],
+              "properties": { "technicalDelegate": { "type": "string" } },
+              "additionalProperties": false
+            }
+          },
+          "additionalProperties": false
+        },
+        {
+          "required": ["matchId"],
+          "properties": {
+            "id": { "type": "string" },
+            "ts": { "type": "string", "format": "date-time" },
+            "type": { "const": "kickoff" },
+            "matchId": { "type": "string" }
+          },
+          "additionalProperties": false
+        }
+      ]
+    }
+  }
+}

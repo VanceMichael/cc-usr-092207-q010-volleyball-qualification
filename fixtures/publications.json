@@ -1,0 +1,1221 @@
+{
+  "publications": [
+    {
+      "version": 1,
+      "publishedAt": "2025-09-21T12:00:00+08:00",
+      "cutoffTs": "2025-09-21T00:00:00+08:00",
+      "note": "小组赛结束，发布各组成绩、两个成绩最好第三名与八强签位、四分之一决赛对阵",
+      "edition": {
+        "code": "2025-national-women-volleyball-championship",
+        "name": "二〇二五年全国女排锦标赛"
+      },
+      "basedOn": {
+        "recordIds": [
+          "R-GA01",
+          "R-GB01",
+          "R-GA02",
+          "R-GB02",
+          "R-GC01",
+          "R-GA03",
+          "R-GB03",
+          "R-GC02",
+          "R-GA04",
+          "R-GB04",
+          "R-GC03",
+          "R-GA05",
+          "R-GB05",
+          "R-GC04",
+          "R-GA06",
+          "R-GA07",
+          "R-GB06",
+          "R-GC05",
+          "R-GA08",
+          "R-GB07",
+          "R-GB08",
+          "R-GC06",
+          "R-GA09",
+          "R-GB09",
+          "PEN-JZ-01",
+          "R-GA10",
+          "R-GB10",
+          "DRW-SEED-01"
+        ],
+        "recordCount": 28
+      },
+      "groups": [
+        {
+          "groupId": "A",
+          "order": [
+            {
+              "rank": 1,
+              "team": "LW",
+              "played": 4,
+              "wins": 4,
+              "matchPoints": 12,
+              "penaltyPoints": 0,
+              "points": 12,
+              "sw": 12,
+              "sl": 1,
+              "setRatio": 12,
+              "spw": 322,
+              "spl": 261,
+              "pointRatio": 1.2337164750957854,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "QC",
+              "played": 4,
+              "wins": 3,
+              "matchPoints": 8,
+              "penaltyPoints": 0,
+              "points": 8,
+              "sw": 10,
+              "sl": 6,
+              "setRatio": 1.6666666666666667,
+              "spw": 364,
+              "spl": 336,
+              "pointRatio": 1.0833333333333333,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "YG",
+              "played": 4,
+              "wins": 2,
+              "matchPoints": 7,
+              "penaltyPoints": 0,
+              "points": 7,
+              "sw": 8,
+              "sl": 7,
+              "setRatio": 1.1428571428571428,
+              "spw": 326,
+              "spl": 264,
+              "pointRatio": 1.2348484848484849,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "ST",
+              "played": 4,
+              "wins": 1,
+              "matchPoints": 3,
+              "penaltyPoints": 0,
+              "points": 3,
+              "sw": 4,
+              "sl": 9,
+              "setRatio": 0.4444444444444444,
+              "spw": 217,
+              "spl": 245,
+              "pointRatio": 0.8857142857142857,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 5,
+              "team": "FL",
+              "played": 4,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 1,
+              "sl": 12,
+              "setRatio": 0.08333333333333333,
+              "spw": 197,
+              "spl": 320,
+              "pointRatio": 0.615625,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "FL"
+        },
+        {
+          "groupId": "B",
+          "order": [
+            {
+              "rank": 1,
+              "team": "SX",
+              "played": 4,
+              "wins": 4,
+              "matchPoints": 12,
+              "penaltyPoints": 0,
+              "points": 12,
+              "sw": 12,
+              "sl": 2,
+              "setRatio": 6,
+              "spw": 342,
+              "spl": 287,
+              "pointRatio": 1.1916376306620209,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "JZ",
+              "played": 4,
+              "wins": 3,
+              "matchPoints": 9,
+              "penaltyPoints": 2,
+              "points": 7,
+              "sw": 10,
+              "sl": 4,
+              "setRatio": 2.5,
+              "spw": 330,
+              "spl": 298,
+              "pointRatio": 1.1073825503355705,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "HC",
+              "played": 4,
+              "wins": 2,
+              "matchPoints": 6,
+              "penaltyPoints": 0,
+              "points": 6,
+              "sw": 8,
+              "sl": 7,
+              "setRatio": 1.1428571428571428,
+              "spw": 351,
+              "spl": 335,
+              "pointRatio": 1.0477611940298508,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "YM",
+              "played": 4,
+              "wins": 1,
+              "matchPoints": 3,
+              "penaltyPoints": 0,
+              "points": 3,
+              "sw": 4,
+              "sl": 9,
+              "setRatio": 0.4444444444444444,
+              "spw": 273,
+              "spl": 304,
+              "pointRatio": 0.8980263157894737,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 5,
+              "team": "YC",
+              "played": 4,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 0,
+              "sl": 12,
+              "setRatio": 0,
+              "spw": 228,
+              "spl": 300,
+              "pointRatio": 0.76,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "YC"
+        },
+        {
+          "groupId": "C",
+          "order": [
+            {
+              "rank": 1,
+              "team": "JH",
+              "played": 3,
+              "wins": 3,
+              "matchPoints": 9,
+              "penaltyPoints": 0,
+              "points": 9,
+              "sw": 9,
+              "sl": 1,
+              "setRatio": 9,
+              "spw": 247,
+              "spl": 204,
+              "pointRatio": 1.2107843137254901,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "SY",
+              "played": 3,
+              "wins": 2,
+              "matchPoints": 5,
+              "penaltyPoints": 0,
+              "points": 5,
+              "sw": 7,
+              "sl": 6,
+              "setRatio": 1.1666666666666667,
+              "spw": 290,
+              "spl": 286,
+              "pointRatio": 1.013986013986014,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "MP",
+              "played": 3,
+              "wins": 1,
+              "matchPoints": 4,
+              "penaltyPoints": 0,
+              "points": 4,
+              "sw": 5,
+              "sl": 6,
+              "setRatio": 0.8333333333333334,
+              "spw": 239,
+              "spl": 236,
+              "pointRatio": 1.0127118644067796,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "TC",
+              "played": 3,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 1,
+              "sl": 9,
+              "setRatio": 0.1111111111111111,
+              "spw": 198,
+              "spl": 248,
+              "pointRatio": 0.7983870967741935,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "TC"
+        }
+      ],
+      "thirdPlace": [
+        {
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 1,
+          "qualified": true,
+          "decidedBy": "pointRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 6,
+            "spw": 231,
+            "spl": 181,
+            "setRatio": 0.8333333333333334,
+            "pointRatio": 1.276243093922652
+          }
+        },
+        {
+          "team": "MP",
+          "group": "C",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 2,
+          "qualified": true,
+          "decidedBy": "pointRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 6,
+            "spw": 239,
+            "spl": 236,
+            "setRatio": 0.8333333333333334,
+            "pointRatio": 1.0127118644067796
+          }
+        },
+        {
+          "team": "HC",
+          "group": "B",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 3,
+          "qualified": false,
+          "decidedBy": "points",
+          "stats": {
+            "points": 3,
+            "matchPoints": 3,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 7,
+            "spw": 276,
+            "spl": 278,
+            "setRatio": 0.7142857142857143,
+            "pointRatio": 0.9928057553956835
+          }
+        }
+      ],
+      "qualifiers": [
+        {
+          "team": "LW",
+          "group": "A",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "QC",
+          "group": "A",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "SX",
+          "group": "B",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "JZ",
+          "group": "B",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "JH",
+          "group": "C",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "SY",
+          "group": "C",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "direct": false
+        },
+        {
+          "team": "MP",
+          "group": "C",
+          "placement": 3,
+          "direct": false
+        }
+      ],
+      "eliminatedThirds": [
+        {
+          "team": "HC",
+          "group": "B",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 3,
+          "qualified": false,
+          "decidedBy": "points",
+          "stats": {
+            "points": 3,
+            "matchPoints": 3,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 7,
+            "spw": 276,
+            "spl": 278,
+            "setRatio": 0.7142857142857143,
+            "pointRatio": 0.9928057553956835
+          }
+        }
+      ],
+      "seeds": [
+        {
+          "seed": 1,
+          "team": "LW",
+          "group": "A",
+          "placement": 1,
+          "points": 9,
+          "wins": 3,
+          "setRatio": 9,
+          "pointRatio": 1.2107843137254901,
+          "decidedBy": "draw"
+        },
+        {
+          "seed": 2,
+          "team": "JH",
+          "group": "C",
+          "placement": 1,
+          "points": 9,
+          "wins": 3,
+          "setRatio": 9,
+          "pointRatio": 1.2107843137254901,
+          "decidedBy": "draw"
+        },
+        {
+          "seed": 3,
+          "team": "SX",
+          "group": "B",
+          "placement": 1,
+          "points": 9,
+          "wins": 3,
+          "setRatio": 4.5,
+          "pointRatio": 1.1608695652173913,
+          "decidedBy": "setRatio"
+        },
+        {
+          "seed": 4,
+          "team": "QC",
+          "group": "A",
+          "placement": 2,
+          "points": 5,
+          "wins": 2,
+          "setRatio": 1.1666666666666667,
+          "pointRatio": 1.03584229390681,
+          "decidedBy": "pointRatio"
+        },
+        {
+          "seed": 5,
+          "team": "SY",
+          "group": "C",
+          "placement": 2,
+          "points": 5,
+          "wins": 2,
+          "setRatio": 1.1666666666666667,
+          "pointRatio": 1.013986013986014,
+          "decidedBy": "pointRatio"
+        },
+        {
+          "seed": 6,
+          "team": "JZ",
+          "group": "B",
+          "placement": 2,
+          "points": 4,
+          "wins": 2,
+          "setRatio": 1.75,
+          "pointRatio": 1.058091286307054,
+          "decidedBy": "wins"
+        },
+        {
+          "seed": 7,
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "points": 4,
+          "wins": 1,
+          "setRatio": 0.8333333333333334,
+          "pointRatio": 1.276243093922652,
+          "decidedBy": "pointRatio"
+        },
+        {
+          "seed": 8,
+          "team": "MP",
+          "group": "C",
+          "placement": 3,
+          "points": 4,
+          "wins": 1,
+          "setRatio": 0.8333333333333334,
+          "pointRatio": 1.0127118644067796,
+          "decidedBy": "pointRatio"
+        }
+      ],
+      "pendingDraws": [],
+      "quarterfinals": [
+        {
+          "matchId": "QF1",
+          "homeSeed": 1,
+          "awaySeed": 8,
+          "home": "LW",
+          "away": "MP",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF2",
+          "homeSeed": 4,
+          "awaySeed": 5,
+          "home": "QC",
+          "away": "SY",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF3",
+          "homeSeed": 3,
+          "awaySeed": 6,
+          "home": "SX",
+          "away": "JZ",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF4",
+          "homeSeed": 2,
+          "awaySeed": 7,
+          "home": "JH",
+          "away": "YG",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        }
+      ],
+      "locks": [],
+      "conflicts": []
+    },
+    {
+      "version": 2,
+      "publishedAt": "2025-09-24T21:00:00+08:00",
+      "cutoffTs": "2025-09-24T21:00:00+08:00",
+      "note": "GB01 记分复核改判、江洲申诉撤销扣分后重算：QF1-QF3 重排，QF4 已开赛锁定并列入仲裁冲突",
+      "edition": {
+        "code": "2025-national-women-volleyball-championship",
+        "name": "二〇二五年全国女排锦标赛"
+      },
+      "basedOn": {
+        "recordIds": [
+          "R-GA01",
+          "R-GB01",
+          "R-GA02",
+          "R-GB02",
+          "R-GC01",
+          "R-GA03",
+          "R-GB03",
+          "R-GC02",
+          "R-GA04",
+          "R-GB04",
+          "R-GC03",
+          "R-GA05",
+          "R-GB05",
+          "R-GC04",
+          "R-GA06",
+          "R-GA07",
+          "R-GB06",
+          "R-GC05",
+          "R-GA08",
+          "R-GB07",
+          "R-GB08",
+          "R-GC06",
+          "R-GA09",
+          "R-GB09",
+          "PEN-JZ-01",
+          "R-GA10",
+          "R-GB10",
+          "DRW-SEED-01",
+          "K-QF4",
+          "COR-GB01-01",
+          "REV-JZ-01"
+        ],
+        "recordCount": 31
+      },
+      "groups": [
+        {
+          "groupId": "A",
+          "order": [
+            {
+              "rank": 1,
+              "team": "LW",
+              "played": 4,
+              "wins": 4,
+              "matchPoints": 12,
+              "penaltyPoints": 0,
+              "points": 12,
+              "sw": 12,
+              "sl": 1,
+              "setRatio": 12,
+              "spw": 322,
+              "spl": 261,
+              "pointRatio": 1.2337164750957854,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "QC",
+              "played": 4,
+              "wins": 3,
+              "matchPoints": 8,
+              "penaltyPoints": 0,
+              "points": 8,
+              "sw": 10,
+              "sl": 6,
+              "setRatio": 1.6666666666666667,
+              "spw": 364,
+              "spl": 336,
+              "pointRatio": 1.0833333333333333,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "YG",
+              "played": 4,
+              "wins": 2,
+              "matchPoints": 7,
+              "penaltyPoints": 0,
+              "points": 7,
+              "sw": 8,
+              "sl": 7,
+              "setRatio": 1.1428571428571428,
+              "spw": 326,
+              "spl": 264,
+              "pointRatio": 1.2348484848484849,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "ST",
+              "played": 4,
+              "wins": 1,
+              "matchPoints": 3,
+              "penaltyPoints": 0,
+              "points": 3,
+              "sw": 4,
+              "sl": 9,
+              "setRatio": 0.4444444444444444,
+              "spw": 217,
+              "spl": 245,
+              "pointRatio": 0.8857142857142857,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 5,
+              "team": "FL",
+              "played": 4,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 1,
+              "sl": 12,
+              "setRatio": 0.08333333333333333,
+              "spw": 197,
+              "spl": 320,
+              "pointRatio": 0.615625,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "FL"
+        },
+        {
+          "groupId": "B",
+          "order": [
+            {
+              "rank": 1,
+              "team": "SX",
+              "played": 4,
+              "wins": 4,
+              "matchPoints": 11,
+              "penaltyPoints": 0,
+              "points": 11,
+              "sw": 12,
+              "sl": 3,
+              "setRatio": 4,
+              "spw": 352,
+              "spl": 299,
+              "pointRatio": 1.1772575250836121,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "JZ",
+              "played": 4,
+              "wins": 3,
+              "matchPoints": 9,
+              "penaltyPoints": 0,
+              "points": 9,
+              "sw": 10,
+              "sl": 4,
+              "setRatio": 2.5,
+              "spw": 330,
+              "spl": 298,
+              "pointRatio": 1.1073825503355705,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "HC",
+              "played": 4,
+              "wins": 2,
+              "matchPoints": 7,
+              "penaltyPoints": 0,
+              "points": 7,
+              "sw": 9,
+              "sl": 7,
+              "setRatio": 1.2857142857142858,
+              "spw": 363,
+              "spl": 345,
+              "pointRatio": 1.0521739130434782,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "YM",
+              "played": 4,
+              "wins": 1,
+              "matchPoints": 3,
+              "penaltyPoints": 0,
+              "points": 3,
+              "sw": 4,
+              "sl": 9,
+              "setRatio": 0.4444444444444444,
+              "spw": 273,
+              "spl": 304,
+              "pointRatio": 0.8980263157894737,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 5,
+              "team": "YC",
+              "played": 4,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 0,
+              "sl": 12,
+              "setRatio": 0,
+              "spw": 228,
+              "spl": 300,
+              "pointRatio": 0.76,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "YC"
+        },
+        {
+          "groupId": "C",
+          "order": [
+            {
+              "rank": 1,
+              "team": "JH",
+              "played": 3,
+              "wins": 3,
+              "matchPoints": 9,
+              "penaltyPoints": 0,
+              "points": 9,
+              "sw": 9,
+              "sl": 1,
+              "setRatio": 9,
+              "spw": 247,
+              "spl": 204,
+              "pointRatio": 1.2107843137254901,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 2,
+              "team": "SY",
+              "played": 3,
+              "wins": 2,
+              "matchPoints": 5,
+              "penaltyPoints": 0,
+              "points": 5,
+              "sw": 7,
+              "sl": 6,
+              "setRatio": 1.1666666666666667,
+              "spw": 290,
+              "spl": 286,
+              "pointRatio": 1.013986013986014,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 3,
+              "team": "MP",
+              "played": 3,
+              "wins": 1,
+              "matchPoints": 4,
+              "penaltyPoints": 0,
+              "points": 4,
+              "sw": 5,
+              "sl": 6,
+              "setRatio": 0.8333333333333334,
+              "spw": 239,
+              "spl": 236,
+              "pointRatio": 1.0127118644067796,
+              "decidedBy": "points",
+              "restricted": false
+            },
+            {
+              "rank": 4,
+              "team": "TC",
+              "played": 3,
+              "wins": 0,
+              "matchPoints": 0,
+              "penaltyPoints": 0,
+              "points": 0,
+              "sw": 1,
+              "sl": 9,
+              "setRatio": 0.1111111111111111,
+              "spw": 198,
+              "spl": 248,
+              "pointRatio": 0.7983870967741935,
+              "decidedBy": "points",
+              "restricted": false
+            }
+          ],
+          "last": "TC"
+        }
+      ],
+      "thirdPlace": [
+        {
+          "team": "HC",
+          "group": "B",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 1,
+          "qualified": true,
+          "decidedBy": "setRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 6,
+            "sl": 7,
+            "spw": 288,
+            "spl": 288,
+            "setRatio": 0.8571428571428571,
+            "pointRatio": 1
+          }
+        },
+        {
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 2,
+          "qualified": true,
+          "decidedBy": "pointRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 6,
+            "spw": 231,
+            "spl": 181,
+            "setRatio": 0.8333333333333334,
+            "pointRatio": 1.276243093922652
+          }
+        },
+        {
+          "team": "MP",
+          "group": "C",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 3,
+          "qualified": false,
+          "decidedBy": "pointRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 6,
+            "spw": 239,
+            "spl": 236,
+            "setRatio": 0.8333333333333334,
+            "pointRatio": 1.0127118644067796
+          }
+        }
+      ],
+      "qualifiers": [
+        {
+          "team": "LW",
+          "group": "A",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "QC",
+          "group": "A",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "SX",
+          "group": "B",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "JZ",
+          "group": "B",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "JH",
+          "group": "C",
+          "placement": 1,
+          "direct": true
+        },
+        {
+          "team": "SY",
+          "group": "C",
+          "placement": 2,
+          "direct": true
+        },
+        {
+          "team": "HC",
+          "group": "B",
+          "placement": 3,
+          "direct": false
+        },
+        {
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "direct": false
+        }
+      ],
+      "eliminatedThirds": [
+        {
+          "team": "MP",
+          "group": "C",
+          "placement": 3,
+          "direct": false,
+          "normalized": true,
+          "rankAmongThirds": 3,
+          "qualified": false,
+          "decidedBy": "pointRatio",
+          "stats": {
+            "points": 4,
+            "matchPoints": 4,
+            "penaltyPoints": 0,
+            "wins": 1,
+            "played": 3,
+            "sw": 5,
+            "sl": 6,
+            "spw": 239,
+            "spl": 236,
+            "setRatio": 0.8333333333333334,
+            "pointRatio": 1.0127118644067796
+          }
+        }
+      ],
+      "seeds": [
+        {
+          "seed": 1,
+          "team": "LW",
+          "group": "A",
+          "placement": 1,
+          "points": 9,
+          "wins": 3,
+          "setRatio": 9,
+          "pointRatio": 1.2107843137254901,
+          "decidedBy": "draw"
+        },
+        {
+          "seed": 2,
+          "team": "JH",
+          "group": "C",
+          "placement": 1,
+          "points": 9,
+          "wins": 3,
+          "setRatio": 9,
+          "pointRatio": 1.2107843137254901,
+          "decidedBy": "draw"
+        },
+        {
+          "seed": 3,
+          "team": "SX",
+          "group": "B",
+          "placement": 1,
+          "points": 8,
+          "wins": 3,
+          "setRatio": 3,
+          "pointRatio": 1.1446280991735538,
+          "decidedBy": "points"
+        },
+        {
+          "seed": 4,
+          "team": "JZ",
+          "group": "B",
+          "placement": 2,
+          "points": 6,
+          "wins": 2,
+          "setRatio": 1.75,
+          "pointRatio": 1.058091286307054,
+          "decidedBy": "points"
+        },
+        {
+          "seed": 5,
+          "team": "QC",
+          "group": "A",
+          "placement": 2,
+          "points": 5,
+          "wins": 2,
+          "setRatio": 1.1666666666666667,
+          "pointRatio": 1.03584229390681,
+          "decidedBy": "pointRatio"
+        },
+        {
+          "seed": 6,
+          "team": "SY",
+          "group": "C",
+          "placement": 2,
+          "points": 5,
+          "wins": 2,
+          "setRatio": 1.1666666666666667,
+          "pointRatio": 1.013986013986014,
+          "decidedBy": "pointRatio"
+        },
+        {
+          "seed": 7,
+          "team": "HC",
+          "group": "B",
+          "placement": 3,
+          "points": 4,
+          "wins": 1,
+          "setRatio": 0.8571428571428571,
+          "pointRatio": 1,
+          "decidedBy": "setRatio"
+        },
+        {
+          "seed": 8,
+          "team": "YG",
+          "group": "A",
+          "placement": 3,
+          "points": 4,
+          "wins": 1,
+          "setRatio": 0.8333333333333334,
+          "pointRatio": 1.276243093922652,
+          "decidedBy": "setRatio"
+        }
+      ],
+      "pendingDraws": [],
+      "quarterfinals": [
+        {
+          "matchId": "QF1",
+          "homeSeed": 1,
+          "awaySeed": 8,
+          "home": "LW",
+          "away": "YG",
+          "locked": false,
+          "conflict": "holderLockedElsewhere",
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF2",
+          "homeSeed": 4,
+          "awaySeed": 5,
+          "home": "JZ",
+          "away": "QC",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF3",
+          "homeSeed": 3,
+          "awaySeed": 6,
+          "home": "SX",
+          "away": "SY",
+          "locked": false,
+          "conflict": null,
+          "kickedOff": false,
+          "kickoffTs": null,
+          "hasResult": false
+        },
+        {
+          "matchId": "QF4",
+          "homeSeed": 2,
+          "awaySeed": 7,
+          "home": "JH",
+          "away": "YG",
+          "locked": true,
+          "lockedSince": "2025-09-23T19:00:00+08:00",
+          "desiredHome": "JH",
+          "desiredAway": "HC",
+          "conflict": "lockedFixtureDiffersFromRecomputed",
+          "kickedOff": true,
+          "kickoffTs": "2025-09-23T19:00:00+08:00",
+          "hasResult": false
+        }
+      ],
+      "locks": [
+        {
+          "matchId": "QF4",
+          "since": "2025-09-23T19:00:00+08:00",
+          "home": "JH",
+          "away": "YG"
+        }
+      ],
+      "conflicts": [
+        {
+          "type": "teamDoubleBooked",
+          "matchId": "QF1",
+          "home": "LW",
+          "away": "YG",
+          "homeSeed": 1,
+          "awaySeed": 8,
+          "detail": "该场未开赛可重排，但其重算签位持有者已被开赛锁定在另一场，须仲裁处置"
+        },
+        {
+          "type": "lockedQuarterfinal",
+          "matchId": "QF4",
+          "lockedHome": "JH",
+          "lockedAway": "YG",
+          "desiredHome": "JH",
+          "desiredAway": "HC",
+          "detail": "该场已开赛，对阵锁定；按最新赛果重算的签位持有者与之不同，须仲裁处置"
+        },
+        {
+          "type": "qualifierDisplacedByLock",
+          "team": "HC",
+          "detail": "按最新赛果该队应晋级并占据某签位，但该签位所属场次已开赛锁定，须仲裁处置"
+        }
+      ]
+    }
+  ]
+}
